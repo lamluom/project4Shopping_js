@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "oppo reno 7",                    "price": 400,
+                    "category": "mobile",
+        "color": "black",
+        "imageUrl": "images/oppo reno 7.jpg"
+    },
+    {
+        "id": 2,
+        "title": "i phone 13",                    "price": 400,
+                    "category": "mobile",
+        "color": "red",
+        "imageUrl": "images/IPhone-13.jpg"
+    },
+    {
+        "id": 3,
+        "title": "watch32",                    "price": 400,
+                    "category": "mobile",
+        "color": "blue",
+        "imageUrl": "images/w32.jpg"
+    },
+    {
+        "id": 4,
+        "title": "car19",
+        "color": "grey",                    "price": 400,
+                    "category": "mobile",
+        "imageUrl": "images/car19.jpg"
+    },
+        {
+                    "id": 1,
+                    "title": "oppo reno 7",
+                    "price": 400,
+                    "category": "mobile",
+                    "color": "black",
+                    "imageUrl": "images/oppo reno 7.jpg"
+                }
+]
